@@ -25,8 +25,8 @@ pip install yfinance
 ```
 
 ## Usage
-
-Using the terminal or Command Line navigate to the project folder and run the script with the following syntax:
+1. Download the app project folder
+2. Using the terminal or Command Line navigate to the project folder and run the script with the following syntax:
 
 ```bash
 python script_name.py <ticker> <period1> <period2> <interval>
