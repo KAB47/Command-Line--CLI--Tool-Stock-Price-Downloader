@@ -1,4 +1,4 @@
-# Stock Price Downloader
+# Command Line (CLI) Tool - Stock Price Downloader
 
 This script allows you to download historical stock price data for a specified ticker symbol and time range using the [yfinance](https://github.com/ranaroussi/yfinance) library. The data can be saved as a CSV file for further analysis.
 
