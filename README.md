@@ -42,10 +42,10 @@ python script_name.py <ticker> <period1> <period2> <interval>
 ### Example
 
 ```bash
-python app.py TSLA 2023-01-01 2023-12-01 1d
+python app.py TSLA 2023-01-01 2023-01-31 1d
 ```
 
-This command will download daily historical prices for Tesla (TSLA) from January 1, 2023, to December 1, 2023, and save them to a CSV file in the current working directory.
+This command will download daily historical prices for Tesla (TSLA) from January 1, 2023, to January 31, 2023, and save them to a CSV file in the current working directory.
 
 ## Output
 
